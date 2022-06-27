@@ -1,5 +1,5 @@
-# SpotiPy-Audio-Features-vs.-Genre-Visualization
+# SpotiPy-API-Exploration
 
-Uses Code.py to visualize relevant audio features (danceability, valency, etc.) versus their genres.
+Uses spot.py to pull the Billboard Top 100 data and visualize audio features vs. genre such as danceability, fastness and loudness vs. "Pop" songs, and answer simple analysis questions such as artist/genre with the most Top 100 appearances.
 
 Project completed in CPSC 203 at UBC.
